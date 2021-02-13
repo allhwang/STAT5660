@@ -1,0 +1,9 @@
+Healthy_geese Lead-poisoned_geese
+297 293
+340 291
+325 289
+227 430
+277 510
+337 353
+250 318
+290 NA
